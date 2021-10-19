@@ -1,4 +1,4 @@
-## Hello, I'm VR/AR Quantum mentor in Ivanovo Kvantorium <img align="center" alt="Kvantorium" width="256px" src="https://sun9-54.userapi.com/impg/bok5mujJ_K6LRqp3CVtdcCyMO0lkZy31A4vj6g/FZlSTNB_e8U.jpg?size=680x382&quality=96&sign=06711a4ee8ff721f7244a8643445d251&type=album" />
+## Hello, I'm VR/AR Quantum mentor in Ivanovo Kvantorium 
 
 ### I'm Virtual Reality and Augmented Reality developer!
 
@@ -8,3 +8,15 @@ I like:
 - :coffee: coffee
 - :camera_flash: photographing
 
+and coddig of course :computer:
+
+### Skills and Tools
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Photoshop" width="128px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idtsoft.ru%2Fprogrammnoe-obespechenie%2Frazrabotchiki%2Fadobe%2Fadobe-photoshop&psig=AOvVaw17Uxc_ipxuRcYr4jogv1lB&ust=1634750605332000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjg6dr-1vMCFQAAAAAdAAAAABAN" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]
+<img align="left" alt="Unity" width="128px" src="https://unity.com/ru" /> [Unity]

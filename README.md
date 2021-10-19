@@ -1,8 +1,11 @@
 # Hi:vulcan_salute: , I'm Vr/Ar quantum mentor in [Ivanovo Kvantorium][kvantorium]
 
-[<img align="center" alt="kvantorium" width="512px" src="https://kvantorium37.ru/assets/templates/kvantorium37/images/logo_top.png"/>][kvantorium]
+[<img align="center" alt="kvantorium" width="560px" src="https://kvantorium37.ru/assets/templates/kvantorium37/images/logo_top.png"/>][kvantorium]
 ### I'm Virtual Reality and Augmented Reality developer!
 <br />
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NgnaPMMm-5E" target="_blank"><img src="http://img.youtube.com/vi/NgnaPMMm-5E/0.jpg" 
+alt="BigSur" width="1024" height="512" border="100" /></a>
 
 ## Tools
 [<img align="left" alt="Unity" width="96px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>][Unity]
@@ -51,6 +54,17 @@
 |ROM|1TB SSD|512GB SSD|512GB SSD + 1TB HDD|
 <br />
 
+
+## Links
+<br />
+
+[<img align="left" alt="vk" width="64px" src="https://artikcool.by/wp-content/uploads/2018/05/1200px-VK.com-logo.svg_.png" />][vk]
+### [VK][vk]
+<br />
+
+[<img align="left" alt="telegram" width="64px" src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-black-and-white.png" />][telegram]
+### [Telegram][telegram]
+
 [Unity]: https://unity.com/ru
 [UnrealEngine]: https://www.unrealengine.com/en-US/
 [XCode]: https://developer.apple.com/xcode/
@@ -62,3 +76,5 @@
 [Vuforia]: https://www.ptc.com/en/products/vuforia
 [FCP]: https://www.apple.com/ru/final-cut-pro/
 [kvantorium]: https://kvantorium37.ru
+[vk]: https://vk.com/sanya_kirilv
+[telegram]: tlgg.ru/sanya_kirilv

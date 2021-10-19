@@ -20,3 +20,4 @@ and coddig of course :computer:
 [<img align="left" alt="c++" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />] [c++]
 [<img align="left" alt="swift" width="128px" src="https://web-creator.ru/uploads/Page/36/swift.svg" />] [swift]
 [<img align="left" alt="c#" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" />] [c#]
+[<img align="left" alt="python" width="128px" src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" />] [python]

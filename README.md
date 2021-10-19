@@ -4,7 +4,11 @@
 ### I'm Virtual Reality and Augmented Reality developer!
 <br />
 
-![git-HD_1080p_SparkVideo](https://user-images.githubusercontent.com/71167144/137994879-7b618135-99ff-4ae6-9d3d-b18b7218f70a.gif)
+
+## I'm trying to add normal video :)
+https://user-images.githubusercontent.com/71167144/137998442-62015b70-1fe1-4c26-8040-8cd811772c0a.mov
+
+
 
 ## Tools
 [<img align="left" alt="Unity" width="96px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>][Unity]

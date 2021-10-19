@@ -1,4 +1,4 @@
-# Hello :vulcan_salute:, I'm Vr/Ar quantum mentor in [Ivanovo Kvantorium][kvantorium]
+# Hi:vulcan_salute: , I'm Vr/Ar quantum mentor in [Ivanovo Kvantorium][kvantorium]
 
 [<img align="center" alt="kvantorium" width="512px" src="https://kvantorium37.ru/assets/templates/kvantorium37/images/logo_top.png"/>][kvantorium]
 ### I'm Virtual Reality and Augmented Reality developer!
@@ -39,6 +39,7 @@
 <br />
 <br />
 <br />
+
 ## My Workspace
 |  |iMac 27-inch 2020 🖥️|Huawei D-14 :computer:|Aser Nitro 5 :computer:|
 |--| ------------- | -----| -----|

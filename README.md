@@ -80,4 +80,4 @@ https://user-images.githubusercontent.com/71167144/137998442-62015b70-1fe1-4c26-
 [FCP]: https://www.apple.com/ru/final-cut-pro/
 [kvantorium]: https://kvantorium37.ru
 [vk]: https://vk.com/sanya_kirilv
-[telegram]: tlgg.ru/sanya_kirilv
+[telegram]: https://t.me/sanya_kirilv

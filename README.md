@@ -6,7 +6,8 @@
 
 
 ## I'm trying to add normal video :)
-https://user-images.githubusercontent.com/71167144/137998442-62015b70-1fe1-4c26-8040-8cd811772c0a.mov
+<img align="center" alt="Gif" width="560px" src="https://i.pinimg.com/originals/d8/0b/99/d80b9960866f4f61ce28e5cc072895a6.gif"/>
+
 
 
 
@@ -47,14 +48,14 @@ https://user-images.githubusercontent.com/71167144/137998442-62015b70-1fe1-4c26-
 <br />
 
 ## My Workspace
-|  |iMac 27-inch 2020 🖥️|Huawei D-14 :computer:|Aser Nitro 5 :computer:|
-|--| ------------- | -----| -----|
-|OS|macOs Big Sur 11.6|Windows 11|Windows 10|
-|Screen|27-inch, Retina 5K|14-inch, IPS 1920*1080|15.6-inch, IPS 1900*1080|
-|Processor|3.8 GHz 8‑core Intel Core i7|2.3 GHz 4‑core AMD Ryzen 3700U|2.5 Ghz 4-core Intel Core i5-7300HQ|
-|RAM|8 ГБ 2667 MHz DDR4|8 ГБ 2400 MHz DDR4|8 ГБ 2400 MHz DDR4|
-|Graphics|AMD Radeon Pro 5500 XT 8 GB|AMD Radeon Vega Mogile GFX|Nvidia GeForce GTX 1050 4 GB|
-|ROM|1TB SSD|512GB SSD|512GB SSD + 1TB HDD|
+|  |iMac 27-inch 2020 🖥️|Huawei D-14 :computer:|
+|--| ------------- | -----|
+|OS|macOs Big Sur 11.6|Windows 11|
+|Screen|27-inch, Retina 5K|14-inch, IPS 1920*1080|
+|Processor|3.8 GHz 8‑core Intel Core i7|2.3 GHz 4‑core AMD Ryzen 3700U|
+|RAM|8 ГБ 2667 MHz DDR4|8 ГБ 2400 MHz DDR4|
+|Graphics|AMD Radeon Pro 5500 XT 8 GB|AMD Radeon Vega Mogile GFX|
+|ROM|1TB SSD|512GB SSD|
 <br />
 
 

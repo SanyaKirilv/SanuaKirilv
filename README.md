@@ -6,9 +6,6 @@
 #### My Codewars babges
 <img align="center" alt="kvantorium" width="512px" src="https://www.codewars.com/users/Sanya_Kirilv/badges/large"/>
 
-## I'm trying to add normal video :)
-<img align="center" alt="Gif" width="560px" src="https://i.pinimg.com/originals/d8/0b/99/d80b9960866f4f61ce28e5cc072895a6.gif"/>
-
 
 
 

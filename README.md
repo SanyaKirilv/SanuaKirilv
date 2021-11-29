@@ -1,7 +1,7 @@
 # Hi:vulcan_salute: , I'm Vr/Ar quantum mentor in [Ivanovo Kvantorium][kvantorium]
 
 [<img align="center" alt="kvantorium" width="560px" src="https://kvantorium37.ru/assets/templates/kvantorium37/images/logo_top.png"/>][kvantorium]
-### I'm Virtual Reality and Augmented Reality developer!
+### I'm Android developer!
 
 #### My Codewars babges
 <img align="center" alt="kvantorium" width="512px" src="https://www.codewars.com/users/Sanya_Kirilv/badges/large"/>

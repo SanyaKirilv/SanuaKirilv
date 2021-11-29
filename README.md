@@ -17,7 +17,7 @@
 [<img align="left" alt="Unreal Engine" width="96px" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg"/>][UnrealEngine]
 [<img align="left" alt="XCode" width="96px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" />][XCode]
 [<img align="left" alt="VSCode" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
-[<img align="left" alt="Tabnine" width="96px" src="https://pbs.twimg.com/profile_images/1404887492168462341/f5dYTeJv_400x400.png" />][Tabnine]
+[<img align="left" alt="Tabnine" width="96px" src="https://yt3.ggpht.com/BxcWH7Dj-v95LXv6EJuyjW8fpJEdDqgqISdo51wD-yEKiEr84hmGonprOVRV40LpT7qG9xEW=s900-c-k-c0x00ffffff-no-rj" />][Tabnine]
 <br />
 <br />
 <br />

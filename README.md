@@ -17,8 +17,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 [<img align="left" alt="Vuforia" width="80px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-512x512-gray.png" />][Vuforia]
 [<img align="left" alt="FinelCutPro" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />][FCP]
 [<img align="left" alt="PremierePro" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" />][PP]

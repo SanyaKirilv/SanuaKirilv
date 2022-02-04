@@ -8,22 +8,22 @@
 
 
 ## Tools
-[<img align="left" alt="Unity" width="96px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>][Unity]
-[<img align="left" alt="Unreal Engine" width="96px" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg"/>][UnrealEngine]
-[<img align="left" alt="XCode" width="96px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" />][XCode]
-[<img align="left" alt="VSCode" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
-[<img align="left" alt="Tabnine" width="96px" src="https://yt3.ggpht.com/BxcWH7Dj-v95LXv6EJuyjW8fpJEdDqgqISdo51wD-yEKiEr84hmGonprOVRV40LpT7qG9xEW=s900-c-k-c0x00ffffff-no-rj" />][Tabnine]
+[<img align="left" alt="Unity" width="80px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>][Unity]
+[<img align="left" alt="Unreal Engine" width="80px" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg"/>][UnrealEngine]
+[<img align="left" alt="XCode" width="80px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" />][XCode]
+[<img align="left" alt="VSCode" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
+[<img align="left" alt="Tabnine" width="80px" src="https://yt3.ggpht.com/BxcWH7Dj-v95LXv6EJuyjW8fpJEdDqgqISdo51wD-yEKiEr84hmGonprOVRV40LpT7qG9xEW=s900-c-k-c0x00ffffff-no-rj" />][Tabnine]
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-[<img align="left" alt="Vuforia" width="96px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-512x512-gray.png" />][Vuforia]
-[<img align="left" alt="FinelCutPro" width="96px" src="https://wikiimg.tojsiabtv.com/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />][FCP]
-[<img align="left" alt="PremierePro" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" />][PP]
-[<img align="left" alt="AfterEffects" width="96px" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" />][AE]
-[<img align="left" alt="Photoshop" width="96px" src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" />][PH]
+[<img align="left" alt="Vuforia" width="80px" src="https://www.ptc.com/dist/ptc/images/ptc-favicon-512x512-gray.png" />][Vuforia]
+[<img align="left" alt="FinelCutPro" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />][FCP]
+[<img align="left" alt="PremierePro" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" />][PP]
+[<img align="left" alt="AfterEffects" width="80px" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" />][AE]
+[<img align="left" alt="Photoshop" width="80px" src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" />][PH]
 <br />
 <br />
 <br />

@@ -1,13 +1,5 @@
-# Hi:vulcan_salute: , ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SanyaKirilv) 
-
-[<img align="center" alt="kvantorium" width="560px" src="https://kvantorium37.ru/assets/templates/kvantorium37/images/logo_top.png"/>][kvantorium]
-### I'm Android developer!
-
-
-
-
-
-## Tools
+# Hi:vulcan_salute: My name is Alexander, I am 19 years old.
+### Tools
 [<img align="left" alt="Unity" width="80px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>][Unity]
 [<img align="left" alt="Unreal Engine" width="80px" src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg"/>][UnrealEngine]
 [<img align="left" alt="XCode" width="80px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" />][XCode]
@@ -27,7 +19,7 @@
 <br />
 <br />
 
-## Languages
+### Languages
 <img align="left" alt="c++" width="96px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="swift" width="96px" src="https://web-creator.ru/uploads/Page/36/swift.svg" />
 <img align="left" alt="c#" width="96px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />

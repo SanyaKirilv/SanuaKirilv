@@ -36,7 +36,7 @@ I`m Virtual and Augumental reality teacher and Software Engineer
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyakirilv&theme=dark)](https://github.com/sanyakirilv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakirilv)](https://github.com/sanyakirilv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakirilv&theme=dark&layout=compact)](https://github.com/sanyakirilv/github-readme-stats)
 ## My Workspace
 |  |Macbook Pro 14-inch 2021 :computer:|Huawei D-14 :computer:|
 |--| ------------- | -----|
